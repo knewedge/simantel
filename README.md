@@ -1,0 +1,2 @@
+# simantel
+Custom Child Theme

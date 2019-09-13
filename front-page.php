@@ -31,14 +31,20 @@
 		<div class="row">
 			<div class="col-md-5"></div>
 			<div class="col-md-7">
-				<div class="col-md-8">
-					<input type="checkbox" />
-					<label>Newsletter</label>
-					<input type="checkbox" />
-					<label>Newsletter &amp; Materials</label>
-				</div>
-				<div class="col-md-4">
-					<button>sign me up</button>
+				<div class="row">
+					<div class="col-md-8">
+						<fieldset>
+							<input type="checkbox" />
+							<label>Newsletter</label>
+						</fieldset>
+						<fieldset>
+							<input type="checkbox" />
+							<label>Newsletter &amp; Materials</label>
+						</fieldset>
+					</div>
+					<div class="col-md-4">
+						<button>sign me up</button>
+					</div>	
 				</div>
 			</div>
 		</div>

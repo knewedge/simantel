@@ -12,3 +12,17 @@
 	color:#000;
 	border-bottom:2px solid #000;
 }
+/*CTA Section*/
+.call-to-action{
+	background-color:#000;
+	padding:20px 0 20px 0;
+}
+.call-to-action h3{
+	color:#fff;
+}
+.call-to-action p{
+	color:#fff;
+}
+.call-to-action input{
+	color:#fff;
+}

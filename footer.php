@@ -13,7 +13,7 @@
 				</div>
 			</div>
 			<div class="col-md-8">
-				<div class="row">
+				<div class="row info">
 					<div class="col-md-4">
 						<strong>321 SW Water St</strong><br />
 						<strong>Peoria, IL 61602</strong>

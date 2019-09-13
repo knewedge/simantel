@@ -8,7 +8,7 @@
 .image-circle{
 	border-radius:50%;
 }
-.featured-copy > .img-circle{
+.featured-copy .img-circle{
 	max-width:300px;
 }
 .feature-btn-active{
@@ -26,8 +26,11 @@
 .call-to-action p{
 	color:#fff;
 }
-.call-to-action input{
+.call-to-action label{
 	color:#fff;
+}
+.call-to-action button{
+	margin:0.7em 0 0 0;
 }
 .form-wrap{
 	margin:4em 0 0 0;

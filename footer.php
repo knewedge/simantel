@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-4">
-				<h4 class="contact-head">Founding Members</h4>
+				<h4 class="foot-head">Founding Members</h4>
 				<div class="row">
 					<div class="col-md-6">
 						<strong>HEADSHOT HERE</strong>

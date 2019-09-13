@@ -1,4 +1,10 @@
 /*Featured Slider*/
+.featured-copy{
+	margin:20px 0 0 0;
+}
 .image-circle{
 	border-radius:50%;
+}
+.featured-copy > .img-circle{
+	max-width:300px;
 }

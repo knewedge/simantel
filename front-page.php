@@ -2,7 +2,7 @@
 <?php do_action('__before_main_wrapper'); ?>
 <section class="featured-slider">
 	<div class="container">
-		<div class="row">
+		<div class="row featured-buttons">
 			<div class="col-md-3 text-center">
 				<h3>Give</h3>
 			</div>
@@ -16,7 +16,7 @@
 				<h3>Create</h3>
 			</div>
 		</div>
-		<div class="row">
+		<div class="row featured-copy">
 			<div class="col-md-4">
 				<img class="image-circle" src="/simantel/wp-content/uploads/2019/09/banner1-square.jpg" alt="kids loooking throuh fence" />
 			</div>

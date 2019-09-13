@@ -44,7 +44,7 @@
 }
 .custom-footer .foot-head{
 	text-decoration:underline;
-	margin-top:0;
+	margin-top:0!important;
 }
 .custom-footer .fab{
 	font-size:2em;

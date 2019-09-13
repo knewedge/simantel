@@ -42,6 +42,9 @@
 	background-color:#c0c0c0;
 	padding:20px 0 20px 0;
 }
+.custom-footer .right-border{
+	border-right:5px solid #000;
+}
 .custom-footer .info{
 	padding:0 0 1em 0;
 }

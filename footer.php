@@ -1,7 +1,7 @@
 <section class="custom-footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-md-4 right-border">
 				<h4 class="foot-head">Founding Members</h4>
 				<div class="row">
 					<div class="col-md-6">

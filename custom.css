@@ -39,8 +39,12 @@
 }
 /*Custom Footer*/
 .custom-footer{
-	background-color:#777;
+	background-color:#c0c0c0;
 	padding:20px 0 20px 0;
+}
+.custom-footer .foot-head{
+	text-decoration:underline;
+	margin-top:0;
 }
 .custom-footer .fab{
 	font-size:2em;

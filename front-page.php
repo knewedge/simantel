@@ -72,7 +72,7 @@
 			<div class="col-md-8">
 				<div class="row">
 					<div class="col-md-4">
-						<strong>321 SW Water St<strong><br />
+						<strong>321 SW Water St</strong><br />
 						<strong>Peoria, IL 61602</strong>
 					</div>
 					<div class="col-md-4">

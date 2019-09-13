@@ -38,6 +38,10 @@
 	border:2px solid #fff;
 }
 /*Custom Footer*/
+.custom-footer{
+	background-color:#777;
+	padding:20px 0 20px 0;
+}
 .custom-footer .fab{
 	font-size:2em;
 }

@@ -4,16 +4,16 @@
 	<div class="container">
 		<div class="row featured-buttons">
 			<div class="col-md-3 text-center">
-				<h3>Give</h3>
+				<h3><span class="feature-btn-active">Give</span></h3>
 			</div>
 			<div class="col-md-3 text-center">
-				<h3>Help</h3>
+				<h3><span>Help</span></h3>
 			</div>
 			<div class="col-md-3 text-center">
-				<h3>Learn</h3>
+				<h3><span>Learn</span></h3>
 			</div>
 			<div class="col-md-3 text-center">
-				<h3>Create</h3>
+				<h3><span>Create</span></h3>
 			</div>
 		</div>
 		<div class="row featured-copy">

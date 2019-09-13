@@ -8,3 +8,6 @@
 .featured-copy > .img-circle{
 	max-width:300px;
 }
+.feature-btn-active{
+	border-bottom:2px solid #000;
+}

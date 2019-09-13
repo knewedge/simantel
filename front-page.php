@@ -29,7 +29,18 @@
 <section class="call-to-action">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12"></div>
+			<div class="col-md-5"></div>
+			<div class="col-md-7">
+				<div class="col-md-8">
+					<input type="checkbox" />
+					<label>Newsletter</label>
+					<input type="checkbox" />
+					<label>Newsletter &amp; Materials</label>
+				</div>
+				<div class="col-md-4">
+					<button>sign me up</button>
+				</div>
+			</div>
 		</div>
 	</div>
 </section>

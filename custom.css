@@ -37,3 +37,15 @@
 	padding:5px;
 	border:2px solid #fff;
 }
+.call-to-action .fab{
+	font-size:2em;
+}
+.call-to-action .fa-facebook-square{
+	color:#3b5998;
+}
+.call-to-action .fa-twitter{
+	color:00acee;
+}
+.call-to-action .fa-instagram{
+	color:#b134af;
+}

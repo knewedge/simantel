@@ -37,15 +37,20 @@
 	padding:5px;
 	border:2px solid #fff;
 }
-.call-to-action .fab{
+/*Custom Footer*/
+.custom-footer .fab{
 	font-size:2em;
 }
-.call-to-action .fa-facebook-square{
+.custom-footer .fa-facebook-square{
 	color:#3b5998;
 }
-.call-to-action .fa-twitter{
+.custom-footer .fa-twitter{
 	color:00acee;
 }
-.call-to-action .fa-instagram{
+.custom-footer .fa-instagram{
 	color:#b134af;
+}
+/*Remove Parent Theme Footer*/
+#footer{
+	display:none!important;
 }

@@ -1,9 +1,3 @@
-<?php
-/*
-* Template Name: Home Page
-* Home page Layout
-*/
-?>
 <?php get_header(); ?>
 <?php do_action('__before_main_wrapper'); ?>
 <section class="featured-slider">
@@ -32,4 +26,5 @@
 	</div>
 </section>
 <?php do_action( '__after_body' ); ?>
+<?php get_footer(); ?>
 </html>
